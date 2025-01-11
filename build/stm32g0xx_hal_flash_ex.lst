@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 1
 
 
    1              		.cpu cortex-m0plus
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
   30:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****            (++) Erase function: Erase page, erase all sectors
   31:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****            (++) There are two modes of erase :
   32:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****              (+++) Polling Mode using HAL_FLASHEx_Erase()
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 2
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 2
 
 
   33:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****              (+++) Interrupt Mode using HAL_FLASHEx_Erase_IT()
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
   87:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /* Private variables ---------------------------------------------------------*/
   88:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /* Private function prototypes -----------------------------------------------*/
   89:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /** @defgroup FLASHEx_Private_Functions FLASHEx Private Functions
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 3
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 3
 
 
   90:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   * @{
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  144:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   */
  145:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /**
  146:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   * @brief  Perform a mass erase or erase the specified FLASH memory pages.
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 4
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 4
 
 
  147:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   * @param[in]  pEraseInit Pointer to an @ref FLASH_EraseInitTypeDef structure that
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  201:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****           /* In case of error, stop erase procedure and return the faulty address */
  202:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****           *PageError = index;
  203:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****           break;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 5
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 5
 
 
  204:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****         }
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  258:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
  259:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****     /* Enable End of Operation and Error interrupts */
  260:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****     FLASH->CR |= FLASH_CR_EOPIE | FLASH_CR_ERRIE;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 6
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 6
 
 
  261:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  315:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   }
  316:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
  317:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   /* Option register */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 7
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 7
 
 
  318:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   if ((pOBInit->OptionType & (OPTIONBYTE_RDP | OPTIONBYTE_USER)) == (OPTIONBYTE_RDP | OPTIONBYTE_US
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  372:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   }
  373:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** #endif /* FLASH_PCROP_SUPPORT */
  374:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 8
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 8
 
 
  375:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** #if defined(FLASH_SECURABLE_MEMORY_SUPPORT)
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  429:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   pOBInit->RDPLevel = FLASH_OB_GetRDP();
  430:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
  431:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   /* Get the user option bytes */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 9
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 9
 
 
  432:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   pOBInit->USERConfig = FLASH_OB_GetUser();
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  486:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   * @retval 0 if 1st location is not programmed else
  487:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   */
  488:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** uint32_t HAL_FLASHEx_FlashEmptyCheck(void)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 10
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 10
 
 
  489:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** {
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  543:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   }
  544:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** }
  545:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** #endif /* FLASH_SECURABLE_MEMORY_SUPPORT */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 11
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 11
 
 
  546:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /**
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
   51              		.cfi_endproc
   52              	.LFE446:
   54              		.section	.text.FLASH_OB_WRPConfig,"ax",%progbits
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 12
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 12
 
 
   55              		.align	1
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  623:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** {
  624:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   /* Flush instruction cache  */
  625:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   if (READ_BIT(FLASH->ACR, FLASH_ACR_ICEN) != 0U)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 13
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 13
 
 
  626:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   {
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  668:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****     FLASH->WRP1AR = ((WRDPEndOffset << FLASH_WRP1AR_WRP1A_END_Pos) | WRPStartOffset);
  669:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   }
  670:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** #if defined(FLASH_DBANK_SUPPORT)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 14
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 14
 
 
  671:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   else if (WRPArea == OB_WRPAREA_ZONE2_A)
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  113              	FLASH_OB_GetWRP:
  114              	.LVL6:
  115              	.LFB450:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 15
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 15
 
 
  685:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  724:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   else
  725:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   {
  726:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****     *WRPStartOffset = READ_BIT(FLASH->WRP1BR, FLASH_WRP1BR_WRP1B_STRT);
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 16
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 16
 
 
  131              		.loc 1 726 5 is_stmt 1 view .LVU26
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  174 002a 1360     		str	r3, [r2]
  175 002c F4E7     		b	.L10
  176              	.L15:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 17
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 17
 
 
  177 002e C046     		.align	2
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  197 0000 30B5     		push	{r4, r5, lr}
  198              	.LCFI1:
  199              		.cfi_def_cfa_offset 12
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 18
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 18
 
 
  200              		.cfi_offset 4, -12
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  244              	FLASH_OB_GetRDP:
  245              	.LFB452:
  778:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 19
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 19
 
 
  779:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** /**
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  280              		.section	.text.FLASH_OB_GetUser,"ax",%progbits
  281              		.align	1
  282              		.syntax unified
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 20
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 20
 
 
  283              		.code	16
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  310              		.cfi_endproc
  311              	.LFE453:
  313              		.section	.text.HAL_FLASHEx_OBProgram,"ax",%progbits
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 21
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 21
 
 
  314              		.align	1
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  356 001a 12D1     		bne	.L35
  357              	.LVL21:
  358              	.L29:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 22
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 22
 
 
  318:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   {
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  396              		.loc 1 408 3 view .LVU103
  397              	.LVL24:
  398              	.L28:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 23
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 23
 
 
  409:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  442 0070 6069     		ldr	r0, [r4, #20]
  443              	.LVL33:
  333:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   }
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 24
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 24
 
 
  444              		.loc 1 333 5 is_stmt 0 view .LVU115
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  488 00a4 FFFFFDFF 		.word	-131073
  489              		.cfi_endproc
  490              	.LFE442:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 25
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 25
 
 
  492              		.section	.text.HAL_FLASHEx_OBGetConfig,"ax",%progbits
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  536              	.LVL46:
  432:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   pOBInit->USERType = OB_USER_ALL;
  537              		.loc 1 432 23 view .LVU137
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 26
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 26
 
 
  538 0020 A061     		str	r0, [r4, #24]
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  585              	.LFE444:
  587              		.section	.text.HAL_FLASHEx_ForceFlashEmpty,"ax",%progbits
  588              		.align	1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 27
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 27
 
 
  589              		.global	HAL_FLASHEx_ForceFlashEmpty
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  636              	FLASH_PageErase:
  637              	.LVL51:
  638              	.LFB447:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 28
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 28
 
 
  589:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   uint32_t tmp;
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  678 001c 02000100 		.word	65538
  679              		.cfi_endproc
  680              	.LFE447:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 29
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 29
 
 
  682              		.section	.text.HAL_FLASHEx_Erase,"ax",%progbits
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  169:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
  725              		.loc 1 169 12 is_stmt 0 discriminator 2 view .LVU184
  726 0018 FA20     		movs	r0, #250
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 30
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 30
 
 
  727              	.LVL57:
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  766 0044 6068     		ldr	r0, [r4, #4]
  767              	.LVL60:
  194:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 31
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 31
 
 
  768              		.loc 1 194 9 is_stmt 0 view .LVU200
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  203:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****         }
  808              		.loc 1 203 11 is_stmt 1 view .LVU215
  809              	.LVL69:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 32
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 32
 
 
  810              	.L60:
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  857              	.LVL76:
  858              	.LFB441:
  227:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****   HAL_StatusTypeDef status;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 33
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 33
 
 
  859              		.loc 1 227 1 is_stmt 1 view -0
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  899 001e FFF7FEFF 		bl	FLASH_WaitForLastOperation
  900              	.LVL78:
  901 0022 051E     		subs	r5, r0, #0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 34
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 34
 
 
  902              	.LVL79:
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  941 0046 042B     		cmp	r3, #4
  942 0048 08D0     		beq	.L72
  273:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c ****       pFlash.Page = pEraseInit->Page;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 35
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 35
 
 
  943              		.loc 1 273 7 is_stmt 1 view .LVU255
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  987              		.section	.text.FLASH_FlushCaches,"ax",%progbits
  988              		.align	1
  989              		.global	FLASH_FlushCaches
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 36
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 36
 
 
  990              		.syntax unified
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  1034              		.loc 1 634 1 is_stmt 0 view .LVU277
  1035              		@ sp needed
  1036 002e 7047     		bx	lr
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 37
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 37
 
 
  1037              	.L78:
@@ -2177,53 +2177,53 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 1
  1051              		.file 5 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_def.h"
  1052              		.file 6 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h"
  1053              		.file 7 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s 			page 38
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s 			page 38
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32g0xx_hal_flash_ex.c
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:18     .text.FLASH_MassErase:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:23     .text.FLASH_MassErase:00000000 FLASH_MassErase
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:50     .text.FLASH_MassErase:00000010 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:55     .text.FLASH_OB_WRPConfig:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:60     .text.FLASH_OB_WRPConfig:00000000 FLASH_OB_WRPConfig
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:103    .text.FLASH_OB_WRPConfig:00000018 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:108    .text.FLASH_OB_GetWRP:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:113    .text.FLASH_OB_GetWRP:00000000 FLASH_OB_GetWRP
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:179    .text.FLASH_OB_GetWRP:00000030 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:184    .text.FLASH_OB_OptrConfig:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:189    .text.FLASH_OB_OptrConfig:00000000 FLASH_OB_OptrConfig
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:234    .text.FLASH_OB_OptrConfig:00000014 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:239    .text.FLASH_OB_GetRDP:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:244    .text.FLASH_OB_GetRDP:00000000 FLASH_OB_GetRDP
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:276    .text.FLASH_OB_GetRDP:00000014 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:281    .text.FLASH_OB_GetUser:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:286    .text.FLASH_OB_GetUser:00000000 FLASH_OB_GetUser
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:308    .text.FLASH_OB_GetUser:0000000c $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:314    .text.HAL_FLASHEx_OBProgram:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:320    .text.HAL_FLASHEx_OBProgram:00000000 HAL_FLASHEx_OBProgram
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:486    .text.HAL_FLASHEx_OBProgram:0000009c $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:493    .text.HAL_FLASHEx_OBGetConfig:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:499    .text.HAL_FLASHEx_OBGetConfig:00000000 HAL_FLASHEx_OBGetConfig
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:551    .text.HAL_FLASHEx_OBGetConfig:00000028 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:556    .text.HAL_FLASHEx_FlashEmptyCheck:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:562    .text.HAL_FLASHEx_FlashEmptyCheck:00000000 HAL_FLASHEx_FlashEmptyCheck
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:583    .text.HAL_FLASHEx_FlashEmptyCheck:0000000c $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:588    .text.HAL_FLASHEx_ForceFlashEmpty:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:594    .text.HAL_FLASHEx_ForceFlashEmpty:00000000 HAL_FLASHEx_ForceFlashEmpty
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:624    .text.HAL_FLASHEx_ForceFlashEmpty:00000010 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:630    .text.FLASH_PageErase:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:636    .text.FLASH_PageErase:00000000 FLASH_PageErase
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:676    .text.FLASH_PageErase:00000014 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:683    .text.HAL_FLASHEx_Erase:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:689    .text.HAL_FLASHEx_Erase:00000000 HAL_FLASHEx_Erase
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:844    .text.HAL_FLASHEx_Erase:00000084 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:850    .text.HAL_FLASHEx_Erase_IT:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:856    .text.HAL_FLASHEx_Erase_IT:00000000 HAL_FLASHEx_Erase_IT
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:982    .text.HAL_FLASHEx_Erase_IT:00000070 $d
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:988    .text.FLASH_FlushCaches:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:994    .text.FLASH_FlushCaches:00000000 FLASH_FlushCaches
-C:\Users\tugru\AppData\Local\Temp\ccbifZl0.s:1040   .text.FLASH_FlushCaches:00000030 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:18     .text.FLASH_MassErase:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:23     .text.FLASH_MassErase:00000000 FLASH_MassErase
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:50     .text.FLASH_MassErase:00000010 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:55     .text.FLASH_OB_WRPConfig:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:60     .text.FLASH_OB_WRPConfig:00000000 FLASH_OB_WRPConfig
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:103    .text.FLASH_OB_WRPConfig:00000018 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:108    .text.FLASH_OB_GetWRP:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:113    .text.FLASH_OB_GetWRP:00000000 FLASH_OB_GetWRP
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:179    .text.FLASH_OB_GetWRP:00000030 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:184    .text.FLASH_OB_OptrConfig:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:189    .text.FLASH_OB_OptrConfig:00000000 FLASH_OB_OptrConfig
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:234    .text.FLASH_OB_OptrConfig:00000014 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:239    .text.FLASH_OB_GetRDP:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:244    .text.FLASH_OB_GetRDP:00000000 FLASH_OB_GetRDP
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:276    .text.FLASH_OB_GetRDP:00000014 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:281    .text.FLASH_OB_GetUser:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:286    .text.FLASH_OB_GetUser:00000000 FLASH_OB_GetUser
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:308    .text.FLASH_OB_GetUser:0000000c $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:314    .text.HAL_FLASHEx_OBProgram:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:320    .text.HAL_FLASHEx_OBProgram:00000000 HAL_FLASHEx_OBProgram
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:486    .text.HAL_FLASHEx_OBProgram:0000009c $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:493    .text.HAL_FLASHEx_OBGetConfig:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:499    .text.HAL_FLASHEx_OBGetConfig:00000000 HAL_FLASHEx_OBGetConfig
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:551    .text.HAL_FLASHEx_OBGetConfig:00000028 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:556    .text.HAL_FLASHEx_FlashEmptyCheck:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:562    .text.HAL_FLASHEx_FlashEmptyCheck:00000000 HAL_FLASHEx_FlashEmptyCheck
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:583    .text.HAL_FLASHEx_FlashEmptyCheck:0000000c $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:588    .text.HAL_FLASHEx_ForceFlashEmpty:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:594    .text.HAL_FLASHEx_ForceFlashEmpty:00000000 HAL_FLASHEx_ForceFlashEmpty
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:624    .text.HAL_FLASHEx_ForceFlashEmpty:00000010 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:630    .text.FLASH_PageErase:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:636    .text.FLASH_PageErase:00000000 FLASH_PageErase
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:676    .text.FLASH_PageErase:00000014 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:683    .text.HAL_FLASHEx_Erase:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:689    .text.HAL_FLASHEx_Erase:00000000 HAL_FLASHEx_Erase
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:844    .text.HAL_FLASHEx_Erase:00000084 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:850    .text.HAL_FLASHEx_Erase_IT:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:856    .text.HAL_FLASHEx_Erase_IT:00000000 HAL_FLASHEx_Erase_IT
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:982    .text.HAL_FLASHEx_Erase_IT:00000070 $d
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:988    .text.FLASH_FlushCaches:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:994    .text.FLASH_FlushCaches:00000000 FLASH_FlushCaches
+C:\Users\tugru\AppData\Local\Temp\ccjjzmtV.s:1040   .text.FLASH_FlushCaches:00000030 $d
 
 UNDEFINED SYMBOLS
 FLASH_WaitForLastOperation

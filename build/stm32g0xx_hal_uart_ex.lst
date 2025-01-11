@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 1
 
 
    1              		.cpu cortex-m0plus
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   30:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     (#) For the UART RS485 Driver Enable mode, initialize the UART registers
   31:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****         by calling the HAL_RS485Ex_Init() API.
   32:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 2
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 2
 
 
   33:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     (#) FIFO mode enabling/disabling and RX/TX FIFO threshold programming.
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   87:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   */
   88:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
   89:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** /** @defgroup UARTEx_Exported_Functions_Group1 Initialization and de-initialization functions
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 3
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 3
 
 
   90:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @brief    Extended Initialization and Configuration Functions
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  144:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @{
  145:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   */
  146:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 4
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 4
 
 
  147:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** /**
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  201:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     /* Init the low level hardware */
  202:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     huart->MspInitCallback(huart);
  203:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** #else
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 5
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 5
 
 
  204:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     /* Init the low level hardware : GPIO, CLOCK, CORTEX */
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  258:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     (#) Wakeup from Stop mode Callback:
  259:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****         (+) HAL_UARTEx_WakeupCallback()
  260:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 6
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 6
 
 
  261:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     (#) TX/RX Fifos Callbacks:
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  315:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @}
  316:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   */
  317:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 7
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 7
 
 
  318:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** /** @defgroup UARTEx_Exported_Functions_Group3 Peripheral Control functions
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  372:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** @endverbatim
  373:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @{
  374:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 8
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 8
 
 
  375:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  429:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   HAL_StatusTypeDef status = HAL_OK;
  430:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   uint32_t tickstart;
  431:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 9
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 9
 
 
  432:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   /* check the wake-up from stop mode UART instance */
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  486:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  487:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   /* Set UESM bit */
  488:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   ATOMIC_SET_BIT(huart->Instance->CR1, USART_CR1_UESM);
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 10
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 10
 
 
  489:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  543:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   WRITE_REG(huart->Instance->CR1, tmpcr1);
  544:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  545:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   /* Determine the number of data to process during RX/TX ISR execution */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 11
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 11
 
 
  546:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   UARTEx_SetNbDataToProcess(huart);
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  600:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *            @arg @ref UART_TXFIFO_THRESHOLD_1_4
  601:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *            @arg @ref UART_TXFIFO_THRESHOLD_1_2
  602:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *            @arg @ref UART_TXFIFO_THRESHOLD_3_4
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 12
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 12
 
 
  603:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *            @arg @ref UART_TXFIFO_THRESHOLD_7_8
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  657:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** {
  658:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   uint32_t tmpcr1;
  659:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 13
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 13
 
 
  660:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   /* Check the parameters */
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  714:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *                (could be lower than Size, in case reception ends on IDLE event)
  715:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @param Timeout Timeout duration expressed in ms (covers the whole reception sequence).
  716:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   * @retval HAL status
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 14
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 14
 
 
  717:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   */
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  771:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  772:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     /* Initialize output number of received elements */
  773:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     *RxLen = 0U;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 15
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 15
 
 
  774:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  828:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     huart->RxState = HAL_UART_STATE_READY;
  829:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  830:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     return HAL_OK;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 16
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 16
 
 
  831:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   }
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  885:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  886:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     if (huart->ReceptionType == HAL_UART_RECEPTION_TOIDLE)
  887:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 17
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 17
 
 
  888:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****       __HAL_UART_CLEAR_FLAG(huart, UART_CLEAR_IDLEF);
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  942:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     /* In case of 9bits/No Parity transfer, pData buffer provided as input parameter
  943:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****        should be aligned on a uint16_t frontier, as data copy from RDR will be
  944:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****        handled by DMA from a uint16_t frontier. */
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 18
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 18
 
 
  945:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     if ((huart->Init.WordLength == UART_WORDLENGTH_9B) && (huart->Init.Parity == UART_PARITY_NONE))
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  999:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *           - HAL_UART_RXEVENT_TC : when Reception has been completed (expected nb of data has be
 1000:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *           - HAL_UART_RXEVENT_HT : when half of expected nb of data has been received
 1001:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *           - HAL_UART_RXEVENT_IDLE : when Idle event occurred prior reception has been completed
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 19
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 19
 
 
 1002:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   *             received data is lower than expected one).
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   44 000e 6946     		mov	r1, sp
   45 0010 8988     		ldrh	r1, [r1, #4]
   46 0012 0B43     		orrs	r3, r1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 20
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 20
 
 
   47 0014 5360     		str	r3, [r2, #4]
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   89 0002 0400     		movs	r4, r0
 1053:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   uint8_t rx_fifo_depth;
   90              		.loc 1 1053 3 is_stmt 1 view .LVU8
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 21
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 21
 
 
 1054:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   uint8_t tx_fifo_depth;
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  120              		.loc 1 1068 5 view .LVU23
 1069:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     tx_fifo_threshold = (uint8_t)(READ_BIT(huart->Instance->CR3, USART_CR3_TXFTCFG) >> USART_CR3_TX
  121              		.loc 1 1069 5 view .LVU24
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 22
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 22
 
 
 1069:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     tx_fifo_threshold = (uint8_t)(READ_BIT(huart->Instance->CR3, USART_CR3_TXFTCFG) >> USART_CR3_TX
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
 1074:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   }
  160              		.loc 1 1074 53 view .LVU41
  161 003c 715D     		ldrb	r1, [r6, r5]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 23
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 23
 
 
 1073:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****                                (uint16_t)denominator[rx_fifo_threshold];
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  177:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  211              		.loc 1 177 3 is_stmt 1 view .LVU50
  180:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 24
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 24
 
 
  212              		.loc 1 180 3 view .LVU51
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  251              		.loc 1 228 3 is_stmt 1 view .LVU66
  252 0036 2268     		ldr	r2, [r4]
  253 0038 9168     		ldr	r1, [r2, #8]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 25
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 25
 
 
  254 003a 8023     		movs	r3, #128
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  296 006c FFF7FEFF 		bl	UART_CheckIdleState
  297              	.LVL19:
  298              	.L8:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 26
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 26
 
 
  243:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  344              		.thumb_func
  346              	HAL_UARTEx_WakeupCallback:
  347              	.LVL27:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 27
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 27
 
 
  348              	.LFB441:
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  398              		.loc 1 307 3 view .LVU96
  312:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  399              		.loc 1 312 1 is_stmt 0 view .LVU97
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 28
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 28
 
 
  400              		@ sp needed
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  446              		.loc 1 406 3 view .LVU107
  447 0018 0268     		ldr	r2, [r0]
  448 001a 5168     		ldr	r1, [r2, #4]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 29
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 29
 
 
  449 001c 1025     		movs	r5, #16
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  496              		.cfi_offset 4, -8
  497              		.cfi_offset 14, -4
  498 0002 84B0     		sub	sp, sp, #16
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 30
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 30
 
 
  499              	.LCFI5:
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  539              		.loc 1 448 6 is_stmt 0 discriminator 2 view .LVU130
  540 0034 002A     		cmp	r2, #0
  541 0036 15D0     		beq	.L28
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 31
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 31
 
 
  542              	.LVL38:
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  585 006c E4E7     		b	.L24
  586              	.L27:
  462:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   }
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 32
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 32
 
 
  587              		.loc 1 462 12 view .LVU142
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  634              		@ frame_needed = 0, uses_anonymous_args = 0
  483:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   /* Process Locked */
  635              		.loc 1 483 1 is_stmt 0 view .LVU152
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 33
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 33
 
 
  636 0000 10B5     		push	{r4, lr}
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   25:Drivers/CMSIS/Include/cmsis_gcc.h **** #ifndef __CMSIS_GCC_H
   26:Drivers/CMSIS/Include/cmsis_gcc.h **** #define __CMSIS_GCC_H
   27:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 34
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 34
 
 
   28:Drivers/CMSIS/Include/cmsis_gcc.h **** /* ignore some GCC warnings */
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
   82:Drivers/CMSIS/Include/cmsis_gcc.h ****   __PACKED_STRUCT T_UINT16_WRITE { uint16_t v; };
   83:Drivers/CMSIS/Include/cmsis_gcc.h ****   #pragma GCC diagnostic pop
   84:Drivers/CMSIS/Include/cmsis_gcc.h ****   #define __UNALIGNED_UINT16_WRITE(addr, val)    (void)((((struct T_UINT16_WRITE *)(void *)(addr))-
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 35
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 35
 
 
   85:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  139:Drivers/CMSIS/Include/cmsis_gcc.h ****   } __copy_table_t;
  140:Drivers/CMSIS/Include/cmsis_gcc.h ****   
  141:Drivers/CMSIS/Include/cmsis_gcc.h ****   typedef struct {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 36
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 36
 
 
  142:Drivers/CMSIS/Include/cmsis_gcc.h ****     uint32_t* dest;
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  196:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE void __enable_irq(void)
  197:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  198:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("cpsie i" : : : "memory");
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 37
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 37
 
 
  199:Drivers/CMSIS/Include/cmsis_gcc.h **** }
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  253:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  254:Drivers/CMSIS/Include/cmsis_gcc.h **** #if (defined (__ARM_FEATURE_CMSE ) && (__ARM_FEATURE_CMSE == 3))
  255:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 38
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 38
 
 
  256:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Set Control Register (non-secure)
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  310:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Process Stack Pointer
  311:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the Process Stack Pointer (PSP).
  312:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               PSP Register value
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 39
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 39
 
 
  313:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  367:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  368:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __get_MSP(void)
  369:Drivers/CMSIS/Include/cmsis_gcc.h **** {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 40
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 40
 
 
  370:Drivers/CMSIS/Include/cmsis_gcc.h ****   uint32_t result;
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  424:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  425:Drivers/CMSIS/Include/cmsis_gcc.h ****   uint32_t result;
  426:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 41
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 41
 
 
  427:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MRS %0, sp_ns" : "=r" (result) );
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  462:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               Priority Mask value
  463:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  464:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __TZ_get_PRIMASK_NS(void)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 42
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 42
 
 
  465:Drivers/CMSIS/Include/cmsis_gcc.h **** {
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  711              	.LBE36:
  712              	.LBE35:
  713              	.LBE30:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 43
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 43
 
 
  488:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  758              		.loc 1 504 3 is_stmt 1 view .LVU185
  504:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  759              		.loc 1 504 3 view .LVU186
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 44
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 44
 
 
  760 0002 8423     		movs	r3, #132
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  802              		.thumb
  803              		.syntax unified
  804              	.LBE41:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 45
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 45
 
 
  805              	.LBE40:
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  848              	.LVL65:
  504:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  849              		.loc 1 504 3 view .LVU214
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 46
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 46
 
 
  850 0030 FCE7     		b	.L35
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  895 0014 2423     		movs	r3, #36
  896 0016 A351     		str	r3, [r4, r6]
  533:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 47
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 47
 
 
  897              		.loc 1 533 3 is_stmt 1 discriminator 2 view .LVU226
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  935              		.loc 1 554 1 view .LVU242
  936              		@ sp needed
  937              	.LVL71:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 48
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 48
 
 
  554:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  569:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  984              		.loc 1 569 3 discriminator 2 view .LVU253
  571:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 49
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 49
 
 
  985              		.loc 1 571 3 discriminator 2 view .LVU254
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  591:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** }
  1023              		.loc 1 591 10 is_stmt 0 discriminator 2 view .LVU271
  1024 0032 0020     		movs	r0, #0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 50
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 50
 
 
  1025              	.LVL79:
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  616:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
  1073              		.loc 1 616 3 view .LVU280
  616:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 51
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 51
 
 
  1074              		.loc 1 616 3 view .LVU281
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1115 0036 2368     		ldr	r3, [r4]
  1116 0038 1F60     		str	r7, [r3]
  635:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 52
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 52
 
 
  1117              		.loc 1 635 3 discriminator 2 view .LVU295
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1161 0000 F8B5     		push	{r3, r4, r5, r6, r7, lr}
  1162              	.LCFI11:
  1163              		.cfi_def_cfa_offset 24
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 53
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 53
 
 
  1164              		.cfi_offset 3, -24
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1203 0020 8143     		bics	r1, r0
  1204 0022 1160     		str	r1, [r2]
  676:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 54
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 54
 
 
  1205              		.loc 1 676 3 is_stmt 1 discriminator 2 view .LVU323
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1246 004a C046     		.align	2
  1247              	.L51:
  1248 004c FFFFFFF1 		.word	-234881025
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 55
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 55
 
 
  1249              		.cfi_endproc
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1297              		.loc 1 727 12 is_stmt 0 view .LVU344
  1298 0016 8C23     		movs	r3, #140
  1299              	.LVL101:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 56
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 56
 
 
  727:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   {
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1341 0044 9022     		movs	r2, #144
  1342 0046 A350     		str	r3, [r4, r2]
  746:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     huart->ReceptionType = HAL_UART_RECEPTION_TOIDLE;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 57
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 57
 
 
  1343              		.loc 1 746 5 is_stmt 1 view .LVU358
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1381 006e 002B     		cmp	r3, #0
  1382 0070 15D1     		bne	.L59
  757:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     uhMask = huart->Mask;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 58
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 58
 
 
  1383              		.loc 1 757 5 discriminator 5 view .LVU375
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1427              		.loc 1 758 12 is_stmt 0 discriminator 13 view .LVU385
  1428 00ac 6022     		movs	r2, #96
  1429 00ae A25A     		ldrh	r2, [r4, r2]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 59
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 59
 
 
  1430 00b0 0192     		str	r2, [sp, #4]
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  769:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     }
  1473              		.loc 1 769 19 view .LVU397
  1474 00e0 0023     		movs	r3, #0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 60
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 60
 
 
  1475 00e2 9A46     		mov	r10, r3
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1514 0108 E244     		add	r10, r10, ip
  1515              	.LVL112:
  1516              	.L68:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 61
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 61
 
 
  809:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****         huart->RxXferCount--;
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1555              		.loc 1 786 13 is_stmt 0 view .LVU428
  1556 0134 3B88     		ldrh	r3, [r7]
  786:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****         {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 62
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 62
 
 
  1557              		.loc 1 786 12 view .LVU429
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1595 015a C01A     		subs	r0, r0, r3
  816:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****         {
  1596              		.loc 1 816 12 view .LVU446
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 63
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 63
 
 
  1597 015c B042     		cmp	r0, r6
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1636              	.LVL117:
  1637              	.L72:
  834:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   }
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 64
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 64
 
 
  1638              		.loc 1 834 12 view .LVU462
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1685              		.code	16
  1686              		.thumb_func
  1688              	HAL_UARTEx_ReceiveToIdle_IT:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 65
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 65
 
 
  1689              	.LVL127:
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1730 0022 01D1     		bne	.L89
  874:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****       {
  1731              		.loc 1 874 7 is_stmt 1 view .LVU484
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 66
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 66
 
 
  874:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****       {
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  889:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     }
  1770              		.loc 1 889 7 view .LVU501
  1771              	.LBB45:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 67
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 67
 
 
  1772              	.LBI45:
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1816              		.loc 2 481 3 view .LVU514
  1817              		.syntax divided
  1818              	@ 481 "Drivers/CMSIS/Include/cmsis_gcc.h" 1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 68
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 68
 
 
  1819 0058 80F31088 		MSR primask, r0
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  876:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****       }
  1864              		.loc 1 876 17 view .LVU525
  1865 006c 0120     		movs	r0, #1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 69
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 69
 
 
  1866 006e F8E7     		b	.L88
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1911              	.LVL145:
  945:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     {
  1912              		.loc 1 945 8 view .LVU537
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 70
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 70
 
 
  1913 001a 9842     		cmp	r0, r3
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  977:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****   }
  1951              		.loc 1 977 12 is_stmt 0 view .LVU554
  1952 0042 0FE0     		b	.L98
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 71
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 71
 
 
  1953              	.LVL148:
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  1994              		.syntax unified
  1995              	.LBE58:
  1996              	.LBE57:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 72
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 72
 
 
  965:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****       }
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  2041              		.loc 1 939 14 view .LVU579
  2042 006a 0120     		movs	r0, #1
  2043              	.LVL158:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 73
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 73
 
 
  939:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c ****     }
@@ -4378,64 +4378,64 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 1
  2097              		.file 6 "Drivers/CMSIS/Device/ST/STM32G0xx/Include/stm32g0xx.h"
  2098              		.file 7 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_def.h"
  2099              		.file 8 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 74
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 74
 
 
  2100              		.file 9 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h"
  2101              		.file 10 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h"
  2102              		.file 11 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h"
  2103              		.file 12 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 75
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 75
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32g0xx_hal_uart_ex.c
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:18     .text.UARTEx_Wakeup_AddressConfig:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:23     .text.UARTEx_Wakeup_AddressConfig:00000000 UARTEx_Wakeup_AddressConfig
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:67     .text.UARTEx_SetNbDataToProcess:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:72     .text.UARTEx_SetNbDataToProcess:00000000 UARTEx_SetNbDataToProcess
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:173    .text.UARTEx_SetNbDataToProcess:00000048 $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:179    .text.HAL_RS485Ex_Init:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:185    .text.HAL_RS485Ex_Init:00000000 HAL_RS485Ex_Init
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:334    .text.HAL_RS485Ex_Init:0000008c $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:340    .text.HAL_UARTEx_WakeupCallback:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:346    .text.HAL_UARTEx_WakeupCallback:00000000 HAL_UARTEx_WakeupCallback
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:362    .text.HAL_UARTEx_RxFifoFullCallback:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:368    .text.HAL_UARTEx_RxFifoFullCallback:00000000 HAL_UARTEx_RxFifoFullCallback
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:384    .text.HAL_UARTEx_TxFifoEmptyCallback:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:390    .text.HAL_UARTEx_TxFifoEmptyCallback:00000000 HAL_UARTEx_TxFifoEmptyCallback
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:406    .text.HAL_MultiProcessorEx_AddressLength_Set:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:412    .text.HAL_MultiProcessorEx_AddressLength_Set:00000000 HAL_MultiProcessorEx_AddressLength_Set
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:479    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:485    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000000 HAL_UARTEx_StopModeWakeUpSourceConfig
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:616    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000080 $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:622    .text.HAL_UARTEx_EnableStopMode:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:628    .text.HAL_UARTEx_EnableStopMode:00000000 HAL_UARTEx_EnableStopMode
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:739    .text.HAL_UARTEx_DisableStopMode:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:745    .text.HAL_UARTEx_DisableStopMode:00000000 HAL_UARTEx_DisableStopMode
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:855    .text.HAL_UARTEx_EnableFifoMode:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:861    .text.HAL_UARTEx_EnableFifoMode:00000000 HAL_UARTEx_EnableFifoMode
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:951    .text.HAL_UARTEx_DisableFifoMode:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:957    .text.HAL_UARTEx_DisableFifoMode:00000000 HAL_UARTEx_DisableFifoMode
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1040   .text.HAL_UARTEx_DisableFifoMode:0000003c $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1045   .text.HAL_UARTEx_SetTxFifoThreshold:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1051   .text.HAL_UARTEx_SetTxFifoThreshold:00000000 HAL_UARTEx_SetTxFifoThreshold
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1147   .text.HAL_UARTEx_SetRxFifoThreshold:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1153   .text.HAL_UARTEx_SetRxFifoThreshold:00000000 HAL_UARTEx_SetRxFifoThreshold
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1248   .text.HAL_UARTEx_SetRxFifoThreshold:0000004c $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1253   .text.HAL_UARTEx_ReceiveToIdle:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1259   .text.HAL_UARTEx_ReceiveToIdle:00000000 HAL_UARTEx_ReceiveToIdle
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1677   .text.HAL_UARTEx_ReceiveToIdle:000001a0 $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1682   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1688   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 HAL_UARTEx_ReceiveToIdle_IT
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1871   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:1877   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 HAL_UARTEx_ReceiveToIdle_DMA
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2054   .text.HAL_UARTEx_GetRxEventType:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2060   .text.HAL_UARTEx_GetRxEventType:00000000 HAL_UARTEx_GetRxEventType
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2079   .rodata.denominator.0:00000000 $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2083   .rodata.denominator.0:00000000 denominator.0
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2086   .rodata.numerator.1:00000000 $d
-C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s:2090   .rodata.numerator.1:00000000 numerator.1
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:18     .text.UARTEx_Wakeup_AddressConfig:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:23     .text.UARTEx_Wakeup_AddressConfig:00000000 UARTEx_Wakeup_AddressConfig
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:67     .text.UARTEx_SetNbDataToProcess:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:72     .text.UARTEx_SetNbDataToProcess:00000000 UARTEx_SetNbDataToProcess
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:173    .text.UARTEx_SetNbDataToProcess:00000048 $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:179    .text.HAL_RS485Ex_Init:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:185    .text.HAL_RS485Ex_Init:00000000 HAL_RS485Ex_Init
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:334    .text.HAL_RS485Ex_Init:0000008c $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:340    .text.HAL_UARTEx_WakeupCallback:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:346    .text.HAL_UARTEx_WakeupCallback:00000000 HAL_UARTEx_WakeupCallback
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:362    .text.HAL_UARTEx_RxFifoFullCallback:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:368    .text.HAL_UARTEx_RxFifoFullCallback:00000000 HAL_UARTEx_RxFifoFullCallback
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:384    .text.HAL_UARTEx_TxFifoEmptyCallback:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:390    .text.HAL_UARTEx_TxFifoEmptyCallback:00000000 HAL_UARTEx_TxFifoEmptyCallback
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:406    .text.HAL_MultiProcessorEx_AddressLength_Set:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:412    .text.HAL_MultiProcessorEx_AddressLength_Set:00000000 HAL_MultiProcessorEx_AddressLength_Set
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:479    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:485    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000000 HAL_UARTEx_StopModeWakeUpSourceConfig
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:616    .text.HAL_UARTEx_StopModeWakeUpSourceConfig:00000080 $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:622    .text.HAL_UARTEx_EnableStopMode:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:628    .text.HAL_UARTEx_EnableStopMode:00000000 HAL_UARTEx_EnableStopMode
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:739    .text.HAL_UARTEx_DisableStopMode:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:745    .text.HAL_UARTEx_DisableStopMode:00000000 HAL_UARTEx_DisableStopMode
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:855    .text.HAL_UARTEx_EnableFifoMode:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:861    .text.HAL_UARTEx_EnableFifoMode:00000000 HAL_UARTEx_EnableFifoMode
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:951    .text.HAL_UARTEx_DisableFifoMode:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:957    .text.HAL_UARTEx_DisableFifoMode:00000000 HAL_UARTEx_DisableFifoMode
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1040   .text.HAL_UARTEx_DisableFifoMode:0000003c $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1045   .text.HAL_UARTEx_SetTxFifoThreshold:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1051   .text.HAL_UARTEx_SetTxFifoThreshold:00000000 HAL_UARTEx_SetTxFifoThreshold
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1147   .text.HAL_UARTEx_SetRxFifoThreshold:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1153   .text.HAL_UARTEx_SetRxFifoThreshold:00000000 HAL_UARTEx_SetRxFifoThreshold
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1248   .text.HAL_UARTEx_SetRxFifoThreshold:0000004c $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1253   .text.HAL_UARTEx_ReceiveToIdle:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1259   .text.HAL_UARTEx_ReceiveToIdle:00000000 HAL_UARTEx_ReceiveToIdle
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1677   .text.HAL_UARTEx_ReceiveToIdle:000001a0 $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1682   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1688   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 HAL_UARTEx_ReceiveToIdle_IT
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1871   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:1877   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 HAL_UARTEx_ReceiveToIdle_DMA
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2054   .text.HAL_UARTEx_GetRxEventType:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2060   .text.HAL_UARTEx_GetRxEventType:00000000 HAL_UARTEx_GetRxEventType
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2079   .rodata.denominator.0:00000000 $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2083   .rodata.denominator.0:00000000 denominator.0
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2086   .rodata.numerator.1:00000000 $d
+C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s:2090   .rodata.numerator.1:00000000 numerator.1
 
 UNDEFINED SYMBOLS
 __aeabi_idiv
@@ -4445,7 +4445,7 @@ HAL_UART_MspInit
 UART_AdvFeatureConfig
 HAL_GetTick
 UART_WaitOnFlagUntilTimeout
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\cciEkVRm.s 			page 76
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\cc2QCdI4.s 			page 76
 
 
 UART_Start_Receive_IT
