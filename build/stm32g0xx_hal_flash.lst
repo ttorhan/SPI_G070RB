@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 1
 
 
    1              		.cpu cortex-m0plus
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
   30:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       (+) 32 cache lines of 4*64 bits on I-Code
   31:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       (+) Error code correction (ECC) : Data in flash are 72-bits word
   32:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****           (8 bits added per double word)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 2
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 2
 
 
   33:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
   87:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
   88:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** /** @addtogroup STM32G0xx_HAL_Driver
   89:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   * @{
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 3
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 3
 
 
   90:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   */
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  144:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     This subsection provides a set of functions allowing to manage the FLASH
  145:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     program operations.
  146:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 4
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 4
 
 
  147:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** @endverbatim
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  201:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  202:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     /* If the program operation is completed, disable the PG or FSTPG Bit */
  203:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     CLEAR_BIT(FLASH->CR, TypeProgram);
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 5
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 5
 
 
  204:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   }
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  258:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       /* Check the parameters */
  259:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       assert_param(IS_FLASH_PROGRAM_ADDRESS(Address));
  260:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 6
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 6
 
 
  261:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       /* Program double-word (64-bit) at a specified address */
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  315:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   if (error != 0x00U)
  316:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   {
  317:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     /*Save the error code*/
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 7
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 7
 
 
  318:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     pFlash.ErrorCode |= error;
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  372:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** }
  373:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  374:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** /**
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 8
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 8
 
 
  375:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   * @brief  FLASH end of operation interrupt callback.
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  429:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** /**
  430:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   * @brief  Unlock the FLASH control register access.
  431:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   * @retval HAL Status
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 9
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 9
 
 
  432:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   */
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  486:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     /* Authorizes the Option Byte register programming */
  487:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     WRITE_REG(FLASH->OPTKEYR, FLASH_OPTKEY1);
  488:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     WRITE_REG(FLASH->OPTKEYR, FLASH_OPTKEY2);
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 10
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 10
 
 
  489:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  543:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   *
  544:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** @verbatim
  545:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****  ===============================================================================
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 11
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 11
 
 
  546:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****                 ##### Peripheral Errors functions #####
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  600:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  601:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   /* Wait for the FLASH operation to complete by polling on BUSY flag to be reset.
  602:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****      Even if the FLASH operation fails, the BUSY flag will be reset and an error
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 12
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 12
 
 
  603:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****      flag will be set */
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  657:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** {
   27              		.loc 1 657 1 view -0
   28              		.cfi_startproc
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 13
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 13
 
 
   29              		@ args = 0, pretend = 0, frame = 0
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
   24:Drivers/CMSIS/Include/cmsis_gcc.h **** 
   25:Drivers/CMSIS/Include/cmsis_gcc.h **** #ifndef __CMSIS_GCC_H
   26:Drivers/CMSIS/Include/cmsis_gcc.h **** #define __CMSIS_GCC_H
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 14
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 14
 
 
   27:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
   81:Drivers/CMSIS/Include/cmsis_gcc.h ****   #pragma GCC diagnostic ignored "-Wattributes"
   82:Drivers/CMSIS/Include/cmsis_gcc.h ****   __PACKED_STRUCT T_UINT16_WRITE { uint16_t v; };
   83:Drivers/CMSIS/Include/cmsis_gcc.h ****   #pragma GCC diagnostic pop
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 15
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 15
 
 
   84:Drivers/CMSIS/Include/cmsis_gcc.h ****   #define __UNALIGNED_UINT16_WRITE(addr, val)    (void)((((struct T_UINT16_WRITE *)(void *)(addr))-
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  138:Drivers/CMSIS/Include/cmsis_gcc.h ****     uint32_t  wlen;
  139:Drivers/CMSIS/Include/cmsis_gcc.h ****   } __copy_table_t;
  140:Drivers/CMSIS/Include/cmsis_gcc.h ****   
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 16
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 16
 
 
  141:Drivers/CMSIS/Include/cmsis_gcc.h ****   typedef struct {
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  195:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  196:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE void __enable_irq(void)
  197:Drivers/CMSIS/Include/cmsis_gcc.h **** {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 17
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 17
 
 
  198:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("cpsie i" : : : "memory");
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  252:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  253:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  254:Drivers/CMSIS/Include/cmsis_gcc.h **** #if (defined (__ARM_FEATURE_CMSE ) && (__ARM_FEATURE_CMSE == 3))
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 18
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 18
 
 
  255:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  309:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  310:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Process Stack Pointer
  311:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the Process Stack Pointer (PSP).
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 19
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 19
 
 
  312:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               PSP Register value
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  366:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               MSP Register value
  367:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  368:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __get_MSP(void)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 20
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 20
 
 
  369:Drivers/CMSIS/Include/cmsis_gcc.h **** {
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  423:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __TZ_get_SP_NS(void)
  424:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  425:Drivers/CMSIS/Include/cmsis_gcc.h ****   uint32_t result;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 21
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 21
 
 
  426:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  480:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  481:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MSR primask, %0" : : "r" (priMask) : "memory");
  482:Drivers/CMSIS/Include/cmsis_gcc.h **** }
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 22
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 22
 
 
  483:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  537:Drivers/CMSIS/Include/cmsis_gcc.h **** #if (defined (__ARM_FEATURE_CMSE ) && (__ARM_FEATURE_CMSE == 3))
  538:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  539:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Base Priority (non-secure)
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 23
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 23
 
 
  540:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the non-secure Base Priority register when in secure state.
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  594:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __get_FAULTMASK(void)
  595:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  596:Drivers/CMSIS/Include/cmsis_gcc.h ****   uint32_t result;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 24
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 24
 
 
  597:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  651:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Process Stack Pointer Limit
  652:Drivers/CMSIS/Include/cmsis_gcc.h ****   Devices without ARMv8-M Main Extensions (i.e. Cortex-M23) lack the non-secure
  653:Drivers/CMSIS/Include/cmsis_gcc.h ****   Stack Pointer Limit register hence zero is returned always in non-secure
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 25
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 25
 
 
  654:Drivers/CMSIS/Include/cmsis_gcc.h ****   mode.
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  708:Drivers/CMSIS/Include/cmsis_gcc.h ****   // without main extensions, the non-secure PSPLIM is RAZ/WI
  709:Drivers/CMSIS/Include/cmsis_gcc.h ****   (void)ProcStackPtrLimit;
  710:Drivers/CMSIS/Include/cmsis_gcc.h **** #else
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 26
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 26
 
 
  711:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MSR psplim, %0" : : "r" (ProcStackPtrLimit));
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  765:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  766:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the non-secure Main Stack Pointer Limit(MSPLIM) when in sec
  767:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               MSPLIM Register value
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 27
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 27
 
 
  768:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  822:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
  823:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  824:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif /* ((defined (__ARM_ARCH_8M_MAIN__ ) && (__ARM_ARCH_8M_MAIN__ == 1)) || \
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 28
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 28
 
 
  825:Drivers/CMSIS/Include/cmsis_gcc.h ****            (defined (__ARM_ARCH_8M_BASE__ ) && (__ARM_ARCH_8M_BASE__ == 1))    ) */
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  879:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  880:Drivers/CMSIS/Include/cmsis_gcc.h **** /* ##########################  Core Instruction Access  ######################### */
  881:Drivers/CMSIS/Include/cmsis_gcc.h **** /** \defgroup CMSIS_Core_InstructionInterface CMSIS Core Instruction Interface
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 29
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 29
 
 
  882:Drivers/CMSIS/Include/cmsis_gcc.h ****   Access to dedicated instructions
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  934:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  935:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("isb 0xF":::"memory");
   53              		.loc 2 935 3 view .LVU7
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 30
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 30
 
 
   54              		.syntax divided
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  681:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   uint32_t dest = Address;
   96              		.loc 1 681 3 view .LVU14
  682:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   uint32_t src = DataAddress;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 31
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 31
 
 
   97              		.loc 1 682 3 view .LVU15
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  136              	.LBE15:
  137              	.LBE14:
  680:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   uint32_t dest = Address;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 32
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 32
 
 
  138              		.loc 1 680 11 is_stmt 0 view .LVU27
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  709:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** #endif /* FLASH_DBANK_SUPPORT */
  710:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   {
  711:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   }
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 33
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 33
 
 
  171              		.loc 1 711 3 discriminator 1 view .LVU39
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  216              		.loc 1 383 1 is_stmt 1 view -0
  217              		.cfi_startproc
  218              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 34
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 34
 
 
  219              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  269              		.loc 1 285 3 view .LVU56
  288:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  270              		.loc 1 288 3 view .LVU57
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 35
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 35
 
 
  288:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  336:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     {
  310              		.loc 1 336 15 is_stmt 0 view .LVU73
  311 0028 234B     		ldr	r3, .L25+8
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 36
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 36
 
 
  312 002a 9B68     		ldr	r3, [r3, #8]
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  352 0054 10BD     		pop	{r4, pc}
  353              	.LVL19:
  354              	.L13:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 37
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 37
 
 
  300:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  394 007a 0E49     		ldr	r1, .L25+4
  395 007c 1961     		str	r1, [r3, #16]
  324:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 38
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 38
 
 
  396              		.loc 1 324 5 is_stmt 1 view .LVU103
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  437 00ae C046     		.align	2
  438              	.L25:
  439 00b0 00200240 		.word	1073881088
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 39
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 39
 
 
  440 00b4 FA830000 		.word	33786
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  486 0014 9A60     		str	r2, [r3, #8]
  444:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     {
  487              		.loc 1 444 5 view .LVU127
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 40
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 40
 
 
  444:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     {
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  534 000a 074A     		ldr	r2, .L38+4
  535 000c DA60     		str	r2, [r3, #12]
  488:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 41
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 41
 
 
  536              		.loc 1 488 5 view .LVU138
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  530:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  584              		.loc 1 530 3 view .LVU147
  585 0000 034A     		ldr	r2, .L41
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 42
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 42
 
 
  586 0002 5169     		ldr	r1, [r2, #20]
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  638              	FLASH_WaitForLastOperation:
  639              	.LVL32:
  640              	.LFB451:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 43
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 43
 
 
  597:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   uint32_t error;
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  615:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       {
  680              		.loc 1 615 26 view .LVU169
  681 001a 401B     		subs	r0, r0, r5
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 44
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 44
 
 
  615:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       {
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  720 0042 FFF7FEFF 		bl	HAL_GetTick
  721              	.LVL37:
  640:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****       {
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 45
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 45
 
 
  722              		.loc 1 640 26 view .LVU186
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  769              	.LFB440:
  165:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   HAL_StatusTypeDef status;
  770              		.loc 1 165 1 is_stmt 1 view -0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 46
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 46
 
 
  771              		.cfi_startproc
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  812 001e 8000     		lsls	r0, r0, #2
  813 0020 FFF7FEFF 		bl	FLASH_WaitForLastOperation
  814              	.LVL44:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 47
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 47
 
 
  180:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   {
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  854              		.loc 1 211 1 is_stmt 0 view .LVU224
  855              		@ sp needed
  856              	.LVL50:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 48
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 48
 
 
  857              	.LVL51:
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  905              		.cfi_offset 4, -20
  906              		.cfi_offset 5, -16
  907              		.cfi_offset 6, -12
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 49
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 49
 
 
  908              		.cfi_offset 7, -8
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  242:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   {
  948              		.loc 1 242 6 is_stmt 0 discriminator 2 view .LVU247
  949 0028 05D0     		beq	.L72
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 50
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 50
 
 
  245:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****   }
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  989 004c 3100     		movs	r1, r6
  990 004e 3800     		movs	r0, r7
  991              	.LVL66:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 51
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 51
 
 
  270:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c ****     }
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  462:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
  1041              		.loc 1 462 3 view .LVU270
  462:Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 52
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 52
 
 
  1042              		.loc 1 462 9 is_stmt 0 view .LVU271
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  1089              		.loc 1 505 1 is_stmt 1 view -0
  1090              		.cfi_startproc
  1091              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 53
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 53
 
 
  1092              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  1135 0024 00200240 		.word	1073881088
  1136              		.cfi_endproc
  1137              	.LFE448:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 54
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 54
 
 
  1139              		.global	pFlash
@@ -3201,53 +3201,53 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 1
  1154              		.file 8 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h"
  1155              		.file 9 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h"
  1156              		.file 10 "Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s 			page 55
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s 			page 55
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32g0xx_hal_flash.c
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:18     .text.FLASH_Program_DoubleWord:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:23     .text.FLASH_Program_DoubleWord:00000000 FLASH_Program_DoubleWord
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:71     .text.FLASH_Program_DoubleWord:00000018 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:76     .RamFunc:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:81     .RamFunc:00000000 FLASH_Program_Fast
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:202    .RamFunc:00000034 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:207    .text.HAL_FLASH_EndOfOperationCallback:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:213    .text.HAL_FLASH_EndOfOperationCallback:00000000 HAL_FLASH_EndOfOperationCallback
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:229    .text.HAL_FLASH_OperationErrorCallback:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:235    .text.HAL_FLASH_OperationErrorCallback:00000000 HAL_FLASH_OperationErrorCallback
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:251    .text.HAL_FLASH_IRQHandler:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:257    .text.HAL_FLASH_IRQHandler:00000000 HAL_FLASH_IRQHandler
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:439    .text.HAL_FLASH_IRQHandler:000000b0 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:448    .text.HAL_FLASH_Unlock:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:454    .text.HAL_FLASH_Unlock:00000000 HAL_FLASH_Unlock
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:503    .text.HAL_FLASH_Unlock:00000024 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:510    .text.HAL_FLASH_OB_Unlock:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:516    .text.HAL_FLASH_OB_Unlock:00000000 HAL_FLASH_OB_Unlock
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:564    .text.HAL_FLASH_OB_Unlock:00000024 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:571    .text.HAL_FLASH_OB_Launch:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:577    .text.HAL_FLASH_OB_Launch:00000000 HAL_FLASH_OB_Launch
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:599    .text.HAL_FLASH_OB_Launch:00000010 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:604    .text.HAL_FLASH_GetError:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:610    .text.HAL_FLASH_GetError:00000000 HAL_FLASH_GetError
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:627    .text.HAL_FLASH_GetError:00000008 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:632    .text.FLASH_WaitForLastOperation:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:638    .text.FLASH_WaitForLastOperation:00000000 FLASH_WaitForLastOperation
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:753    .text.FLASH_WaitForLastOperation:0000005c $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:761    .text.HAL_FLASH_Program:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:767    .text.HAL_FLASH_Program:00000000 HAL_FLASH_Program
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:882    .text.HAL_FLASH_Program:0000005c $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:888    .text.HAL_FLASH_Program_IT:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:894    .text.HAL_FLASH_Program_IT:00000000 HAL_FLASH_Program_IT
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1016   .text.HAL_FLASH_Program_IT:00000068 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1022   .text.HAL_FLASH_Lock:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1028   .text.HAL_FLASH_Lock:00000000 HAL_FLASH_Lock
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1076   .text.HAL_FLASH_Lock:00000024 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1081   .text.HAL_FLASH_OB_Lock:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1087   .text.HAL_FLASH_OB_Lock:00000000 HAL_FLASH_OB_Lock
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1135   .text.HAL_FLASH_OB_Lock:00000024 $d
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1145   .bss.pFlash:00000000 pFlash
-C:\Users\tugru\AppData\Local\Temp\ccfjUlpA.s:1141   .bss.pFlash:00000000 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:18     .text.FLASH_Program_DoubleWord:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:23     .text.FLASH_Program_DoubleWord:00000000 FLASH_Program_DoubleWord
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:71     .text.FLASH_Program_DoubleWord:00000018 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:76     .RamFunc:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:81     .RamFunc:00000000 FLASH_Program_Fast
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:202    .RamFunc:00000034 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:207    .text.HAL_FLASH_EndOfOperationCallback:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:213    .text.HAL_FLASH_EndOfOperationCallback:00000000 HAL_FLASH_EndOfOperationCallback
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:229    .text.HAL_FLASH_OperationErrorCallback:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:235    .text.HAL_FLASH_OperationErrorCallback:00000000 HAL_FLASH_OperationErrorCallback
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:251    .text.HAL_FLASH_IRQHandler:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:257    .text.HAL_FLASH_IRQHandler:00000000 HAL_FLASH_IRQHandler
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:439    .text.HAL_FLASH_IRQHandler:000000b0 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:448    .text.HAL_FLASH_Unlock:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:454    .text.HAL_FLASH_Unlock:00000000 HAL_FLASH_Unlock
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:503    .text.HAL_FLASH_Unlock:00000024 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:510    .text.HAL_FLASH_OB_Unlock:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:516    .text.HAL_FLASH_OB_Unlock:00000000 HAL_FLASH_OB_Unlock
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:564    .text.HAL_FLASH_OB_Unlock:00000024 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:571    .text.HAL_FLASH_OB_Launch:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:577    .text.HAL_FLASH_OB_Launch:00000000 HAL_FLASH_OB_Launch
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:599    .text.HAL_FLASH_OB_Launch:00000010 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:604    .text.HAL_FLASH_GetError:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:610    .text.HAL_FLASH_GetError:00000000 HAL_FLASH_GetError
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:627    .text.HAL_FLASH_GetError:00000008 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:632    .text.FLASH_WaitForLastOperation:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:638    .text.FLASH_WaitForLastOperation:00000000 FLASH_WaitForLastOperation
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:753    .text.FLASH_WaitForLastOperation:0000005c $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:761    .text.HAL_FLASH_Program:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:767    .text.HAL_FLASH_Program:00000000 HAL_FLASH_Program
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:882    .text.HAL_FLASH_Program:0000005c $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:888    .text.HAL_FLASH_Program_IT:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:894    .text.HAL_FLASH_Program_IT:00000000 HAL_FLASH_Program_IT
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1016   .text.HAL_FLASH_Program_IT:00000068 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1022   .text.HAL_FLASH_Lock:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1028   .text.HAL_FLASH_Lock:00000000 HAL_FLASH_Lock
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1076   .text.HAL_FLASH_Lock:00000024 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1081   .text.HAL_FLASH_OB_Lock:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1087   .text.HAL_FLASH_OB_Lock:00000000 HAL_FLASH_OB_Lock
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1135   .text.HAL_FLASH_OB_Lock:00000024 $d
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1145   .bss.pFlash:00000000 pFlash
+C:\Users\tugru\AppData\Local\Temp\ccbcKk1s.s:1141   .bss.pFlash:00000000 $d
 
 UNDEFINED SYMBOLS
 FLASH_PageErase
