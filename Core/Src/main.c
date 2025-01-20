@@ -37,6 +37,19 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
+#define SPI_BUFFER_SIZE 10
+
+uint8_t spi_tx_buffer = 0x15; // Data to send
+uint8_t spi_rx_buffer[SPI_BUFFER_SIZE] = {0}; // Buffer to store received data
+void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef *hspi) {
+    if (hspi->Instance == SPI1) {
+        printf("SPI transaction complete. Received data: ");
+        for (int i = 0; i < SPI_BUFFER_SIZE; i++) {
+            printf("%02X ", spi_rx_buffer[i]); // Print received data
+        }
+        printf("\n");
+    }
+}
 
 /* USER CODE END PM */
 
@@ -46,11 +59,15 @@ ADC_HandleTypeDef hadc1;
 SPI_HandleTypeDef hspi2;
 
 UART_HandleTypeDef huart2;
-
+int _write(int file, char *data, int len) {
+    HAL_UART_Transmit(&huart2, (uint8_t *)data, len, HAL_MAX_DELAY); // Redirect printf to UART
+    return len;
+}
 /* USER CODE BEGIN PV */
 uint16_t adc_0=0;
 uint16_t adc_1=0;
 uint8_t rawValues[2];
+
 char msg[100];
 /* USER CODE END PV */
 
@@ -108,6 +125,7 @@ int main(void)
   MX_SPI2_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
+  printf("Slave ready\n");
 
   /* USER CODE END 2 */
 
@@ -118,19 +136,10 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+    HAL_SPI_Transmit(&hspi2, &spi_tx_buffer, 1,100); // Start SPI transaction
+    HAL_Delay(100); // Simulate idle state
 
-    HAL_ADC_Start(&hadc1);
-    HAL_ADC_PollForConversion(&hadc1,100);
-    adc_0=HAL_ADC_GetValue(&hadc1);
 
-    HAL_ADC_Start(&hadc1);
-    HAL_ADC_PollForConversion(&hadc1,100);
-    adc_1=HAL_ADC_GetValue(&hadc1);
-    
-    
-    sprintf(msg,"ADC0: %d\t\t, ADC1: %d\n\r",adc_0,adc_1);
-    HAL_UART_Transmit(&huart2,(uint8_t *)msg,strlen(msg),HAL_MAX_DELAY);
-    HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }
